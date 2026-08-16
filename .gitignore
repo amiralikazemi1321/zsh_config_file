@@ -1,0 +1,9 @@
+# Local Zsh state
+.zsh_history
+.zcompdump*
+.cache/
+
+# Local editor / OS files
+*.swp
+*.swo
+.DS_Store
